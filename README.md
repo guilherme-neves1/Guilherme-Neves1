@@ -1,10 +1,8 @@
-## Olá! Eu sou o Guilherme Neves 👋
+## Olá! 👋
 
 <p align="center">
-  Aprendendo a <strong>resolver problemas usando a tecnologia.</strong> 💻 
+  Aprendendo a <strong>resolver problemas</strong> usando a tecnologia. 💻 
   <br>
-  <br> 
-  Sempre buscando conhecimento para fazer a diferença no <strong>mundo!</strong>
 </p>
 &nbsp;
 
